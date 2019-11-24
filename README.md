@@ -4,9 +4,9 @@ This is my resume built with html and css.This is a single page application.
 
 My github page
 
-* [Demo] (https://alameenboss.github.io)
+* [Demo] ( <https://alameenboss.github.io> )
 
-* [Download Source]  (<https://github.com/alameenboss/alameenboss.github.io/archive/master.zip)>
+* [Download Source]  ( <https://github.com/alameenboss/alameenboss.github.io/archive/master.zip> )
 
 
 ## Technology Used
