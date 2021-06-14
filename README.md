@@ -2,12 +2,8 @@
 
 This is my resume built with html and css.This is a single page application.
 
-My github page
-
-* [Demo] ( <https://alameenboss.github.io> )
-
-* [Download Source]  ( <https://github.com/alameenboss/alameenboss.github.io/archive/master.zip> )
-
+* [Demo](https://alameenboss.github.io)
+* [Download Source](https://github.com/alameenboss/alameenboss.github.io/archive/master.zip)
 
 ## Technology Used
 
@@ -21,4 +17,4 @@ My github page
 
 ### Screen
 
-![Page](./Screen/Page.png)
+[Screen](./Screen.md)
